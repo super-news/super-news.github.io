@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="it-IT" prefix="og: http://ogp.me/ns#" class="no-js">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+	    <meta name="theme-color" content="#f27c29">	<link rel="profile" href="http://gmpg.org/xfn/11">
+            <script type="text/javascript">
+            if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+                var originalAddEventListener = EventTarget.prototype.addEventListener,
+                    oldWidth = window.innerWidth;
+
+                EventTarget.prototype.addEventListener = function (eventName, eventHandler, useCapture) {
+                    if (eventName === "resize") {
+                        originalAddEventListener.call(this, eventName, function (event) {
+                            if (oldWidth === window.innerWidth) {
+                                return;
+                            }
+                            else if (oldWidth !== window.innerWidth) {
+                                oldWidth = window.innerWidth;
+                            }
+                            if (eventHandler.handleEvent) {
+                                eventHandler.handleEvent.call(this, event);
+                            }
+                            else {
+                                eventHandler.call(this, event);
+                            };
+                        }, useCapture);
+                    }
+                    else {
+                        originalAddEventListener.call(this, eventName, eventHandler, useCapture);
+                    };
+                };
+            };
+        </script>
+		<title>Pagina non trovata - Le ultime News dal Web</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v9.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow">
+<meta property="og:locale" content="it_IT">
+<meta property="og:type" content="object">
+<meta property="og:title" content="Pagina non trovata - Le ultime News dal Web">
+<meta property="og:site_name" content="Le ultime News dal Web">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Pagina non trovata - Le ultime News dal Web">
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Le ultime News dal Web &raquo; Feed" href="http://www.ultimenews24.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Le ultime News dal Web &raquo; Feed dei commenti" href="http://www.ultimenews24.com/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.ultimenews24.com\/wd\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="../css/style.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-theme-css" href="../css/theme.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="dt-web-fonts-css" href="../css/css.css" type="text/css" media="all">
+<link rel="stylesheet" id="dt-main-css" href="../css/main.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="dt-awsome-fonts-back-css" href="../css/back-compat.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="dt-awsome-fonts-css" href="../css/all.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="dt-fontello-css" href="../css/fontello.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="dt-custom-css" href="../css/custom.css" type="text/css" media="all">
+<link rel="stylesheet" id="dt-media-css" href="../css/media.css" type="text/css" media="all">
+<link rel="stylesheet" id="dt-legacy-css" href="../css/legacy.css" type="text/css" media="all">
+<link rel="stylesheet" id="style-css" href="../css/style_1.css" type="text/css" media="all">
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/jquery-migrate.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var dtLocal = {"themeUrl":"http:\/\/www.ultimenews24.com\/wd\/wp-content\/themes\/dt-the7","passText":"Per visualizzare questo post protetto, inserire la password qui sotto:","moreButtonText":{"loading":"Caricamento...","loadMore":"Carica ancora"},"postID":"317","ajaxurl":"http:\/\/www.ultimenews24.com\/wd\/wp-admin\/admin-ajax.php","contactMessages":{"required":"One or more fields have an error. Please check and try again.","terms":"Please accept the privacy policy."},"ajaxNonce":"41ded64ad9","pageData":"","themeSettings":{"smoothScroll":"off","lazyLoading":false,"accentColor":{"mode":"solid","color":"#f27c29"},"desktopHeader":{"height":160},"floatingHeader":{"showAfter":150,"showMenu":false,"height":60,"logo":{"showLogo":true,"html":"<img class=\" preload-me\" src=\"http:\/\/www.ultimenews24.com\/wd\/wp-content\/themes\/dt-the7\/inc\/presets\/images\/full\/skin11r.header-style-floating-logo-regular.png\" srcset=\"http:\/\/www.ultimenews24.com\/wd\/wp-content\/themes\/dt-the7\/inc\/presets\/images\/full\/skin11r.header-style-floating-logo-regular.png 44w, http:\/\/www.ultimenews24.com\/wd\/wp-content\/themes\/dt-the7\/inc\/presets\/images\/full\/skin11r.header-style-floating-logo-hd.png 88w\" width=\"44\" height=\"44\"   sizes=\"44px\" alt=\"Le ultime News dal Web\" \/>","url":"http:\/\/www.ultimenews24.com\/"}},"mobileHeader":{"firstSwitchPoint":1050,"secondSwitchPoint":500,"firstSwitchPointHeight":60,"secondSwitchPointHeight":60},"stickyMobileHeaderFirstSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"http:\/\/www.ultimenews24.com\/wd\/wp-content\/uploads\/2018\/05\/thomas-miller-1.png\" srcset=\"http:\/\/www.ultimenews24.com\/wd\/wp-content\/uploads\/2018\/05\/thomas-miller-1.png 250w\" width=\"250\" height=\"80\"   sizes=\"250px\" alt=\"Le ultime News dal Web\" \/>"}},"stickyMobileHeaderSecondSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"http:\/\/www.ultimenews24.com\/wd\/wp-content\/uploads\/2018\/05\/thomas-miller-1.png\" srcset=\"http:\/\/www.ultimenews24.com\/wd\/wp-content\/uploads\/2018\/05\/thomas-miller-1.png 250w\" width=\"250\" height=\"80\"   sizes=\"250px\" alt=\"Le ultime News dal Web\" \/>"}},"content":{"textColor":"#626870","headerColor":"#3b3f4a"},"boxedWidth":"1340px","stripes":{"stripe1":{"textColor":"#787d85","headerColor":"#3b3f4a"},"stripe2":{"textColor":"#8b9199","headerColor":"#ffffff"},"stripe3":{"textColor":"#ffffff","headerColor":"#ffffff"}}}};
+var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Tweet","pinterest":"Pin it","linkedin":"Share on Linkedin","whatsapp":"Share on Whatsapp","google":"Share on Google Plus"},"overlayOpacity":"85"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/above-the-fold.min.js"></script>
+<link rel="https://api.w.org/" href="http://www.ultimenews24.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.ultimenews24.com/wd/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.ultimenews24.com/wd/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.1.1">
+<link rel="icon" href="http://www.ultimenews24.com/wd/wp-content/uploads/2017/05/icona.png" type="image/png" sizes="16x16"><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52603102-7', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<meta name="B-verify" content="4445f3c91b0d42c7ebbfa505e60c78734068ef34"></head>
+<body class="error404 wp-embed-responsive dt-responsive-on srcset-enabled btn-flat custom-btn-color custom-btn-hover-color  top-header first-switch-logo-left first-switch-menu-right second-switch-logo-center second-switch-menu-left right-mobile-menu layzr-loading-on no-avatars popup-message-style dt-fa-compatibility the7-ver-7.4.3.3">
+<!-- The7 7.4.3.3 -->
+
+<div id="page">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+<div class="masthead classic-header center logo-center widgets full-height shadow-decoration small-mobile-menu-icon mobile-menu-icon-bg-on" role="banner">
+
+			<div class="top-bar top-bar-line-hide">
+			<div class="top-bar-bg"></div>
+			<div class="left-widgets mini-widgets"><div class="mini-nav show-on-desktop near-logo-first-switch hide-on-second-switch list-type-menu select-type-menu-first-switch select-type-menu-second-switch"><ul id="top-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142 first"><a href="http://www.ultimenews24.com/chi-siamo/" data-level="1"><span class="menu-item-text"><span class="menu-text">Chi Siamo</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="http://www.ultimenews24.com/privacy-policy/" data-level="1"><span class="menu-item-text"><span class="menu-text">Privacy Policy</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a href="http://www.ultimenews24.com/disclaimer/" data-level="1"><span class="menu-item-text"><span class="menu-text">Disclaimer</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="http://www.ultimenews24.com/cookie/" data-level="1"><span class="menu-item-text"><span class="menu-text">Cookie</span></span></a></li> </ul><div class="menu-select"><span class="customSelect1"><span class="customSelectInner"><i class=" the7-mw-icon-dropdown-menu-bold"></i>Top</span></span></div></div></div>			<div class="right-widgets mini-widgets"><div class="mini-search show-on-desktop near-logo-first-switch near-logo-second-switch popup-search custom-icon"><form class="searchform mini-widget-searchform" role="search" method="get" action="http://www.ultimenews24.com/">
+
+	<label for="search" class="screen-reader-text">Search:</label>
+			<a href="#go" class="submit"><i class=" mw-icon the7-mw-icon-search-bold"></i><span>Cerca</span></a>
+		<div class="popup-search-wrap">
+			<input type="text" class="field searchform-s" name="s" value="" placeholder="Type and hit enter …">
+
+			<a href="#go" class="search-icon"><i class="the7-mw-icon-search-bold"></i></a>
+		</div>
+	        		<input type="submit" class="assistive-text searchsubmit" value="Go!">
+</form>
+
+</div></div>		</div>
+
+	<header class="header-bar">
+
+						<div class="branding">
+					<div id="site-title" class="assistive-text">Le ultime News dal Web</div>
+					<div id="site-description" class="assistive-text"></div>
+					<a href="http://www.ultimenews24.com/"><img class=" preload-me" src="../img/thomas-miller-1.png" srcset="http://www.ultimenews24.com/wd/wp-content/uploads/2018/05/thomas-miller-1.png 250w" width="250" height="80" sizes="250px" alt="Le ultime News dal Web"></a><div class="mini-widgets"></div><div class="mini-widgets"></div>				</div>
+		<nav class="navigation">
+
+			<ul id="primary-menu" class="main-nav underline-decoration upwards-line outside-item-remove-margin" role="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-10 first"><a href="http://www.ultimenews24.com/" data-level="1"><span class="menu-item-text"><span class="menu-text">Home Page</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-202"><a href="http://www.ultimenews24.com/news/" data-level="1"><span class="menu-item-text"><span class="menu-text">Tecnologia</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a href="http://www.ultimenews24.com/corpo/" data-level="1"><span class="menu-item-text"><span class="menu-text">Benessere</span></span></a></li> </ul>
+			
+		</nav>
+
+	</header>
+
+</div><div class="dt-close-mobile-menu-icon"><span></span></div>
+<div class="dt-mobile-header">
+	<ul id="mobile-menu" class="mobile-main-nav" role="menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-10 first"><a href="http://www.ultimenews24.com/" data-level="1"><span class="menu-item-text"><span class="menu-text">Home Page</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-202"><a href="http://www.ultimenews24.com/news/" data-level="1"><span class="menu-item-text"><span class="menu-text">Tecnologia</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a href="http://www.ultimenews24.com/corpo/" data-level="1"><span class="menu-item-text"><span class="menu-text">Benessere</span></span></a></li> 	</ul>
+	<div class="mobile-mini-widgets-in-menu"></div>
+</div>
+		<div class="page-title title-center solid-bg breadcrumbs-mobile-off page-title-responsive-enabled">
+			<div class="wf-wrap">
+
+				<div class="page-title-head hgroup"><h1>Page not found</h1></div><div class="page-title-breadcrumbs"><div class="assistive-text">You are here:</div><ol class="breadcrumbs text-small" xmlns:v="http://rdf.data-vocabulary.org/#"><li typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="http://www.ultimenews24.com/" title="">Home</a></li><li class="current">Errore 404</li></ol></div>			</div>
+		</div>
+
+		
+
+<div id="main" class="sidebar-none sidebar-divider-vertical">
+
+	
+    <div class="main-gradient"></div>
+    <div class="wf-wrap">
+    <div class="wf-container-main">
+
+	
+
+			<!-- Content -->
+			<div id="content" class="content" role="main" style="min-height: 500px; text-align:center">
+
+				<article id="post-0" class="post error404 not-found">
+
+					<h1 class="entry-title">Oops! La pagina non è stata trovata.</h1>
+
+					<p>It looks like nothing was found at this location. Try using the search box below:</p>
+
+						<form class="searchform" role="search" method="get" action="http://www.ultimenews24.com/">
+		<label for="search" class="screen-reader-text">Search:</label>
+		<input type="text" class="field searchform-s" name="s" value="" placeholder="Digita e premi invio &hellip;">
+		<input type="submit" class="assistive-text searchsubmit" value="Go!">
+		<a href="#go" class="submit"></a>
+	</form>
+				</article><!-- #post-0 .post .error404 .not-found -->
+
+			</div><!-- #content .site-content -->
+
+			
+
+			</div><!-- .wf-container -->
+		</div><!-- .wf-wrap -->
+
+	
+	</div><!-- #main -->
+
+	
+
+	
+	<!-- !Footer -->
+	<footer id="footer" class="footer solid-bg">
+
+		
+<!-- !Bottom-bar -->
+<div id="bottom-bar" class="solid-bg logo-left" role="contentinfo">
+    <div class="wf-wrap">
+        <div class="wf-container-bottom">
+
+			
+            <div class="wf-float-right">
+
+				<div class="mini-nav"><ul id="bottom-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25 first"><a href="http://www.ultimenews24.com/cookie/" data-level="1"><span class="menu-item-text"><span class="menu-text">Cookie</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="http://www.ultimenews24.com/disclaimer/" data-level="1"><span class="menu-item-text"><span class="menu-text">Disclaimer</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://www.ultimenews24.com/privacy-policy/" data-level="1"><span class="menu-item-text"><span class="menu-text">Privacy Policy</span></span></a></li> </ul><div class="menu-select"><span class="customSelect1"><span class="customSelectInner">footer</span></span></div></div><div class="bottom-text-block"><p>P. IVA 04464120239</p>
+</div>
+            </div>
+
+        </div><!-- .wf-container-bottom -->
+    </div><!-- .wf-wrap -->
+</div><!-- #bottom-bar -->
+	</footer><!-- #footer -->
+
+
+	<a href="#" class="scroll-top"><span class="screen-reader-text">Go to Top</span></a>
+
+</div><!-- #page -->
+
+<script type="text/javascript" src="../js/main.min.js"></script>
+<script type="text/javascript" src="../js/legacy.min.js"></script>
+<script type="text/javascript" src="../js/wp-embed.min.js"></script>
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="pswp__bg"></div>
+    <div class="pswp__scroll-wrap">
+ 
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+ 
+        <div class="pswp__ui pswp__ui--hidden">
+            <div class="pswp__top-bar">
+                <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
